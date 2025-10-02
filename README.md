@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный заголовок с фиолетовым текстом -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+[Ваше+Имя]!;Full-Stack+Developer;Люблю+котиков+и+код;Добро+пожаловать!&height=80" alt="Заголовок"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+skoooootch!;супер+фиолетовая+страничка;мяумяу+мяу+мяууу;Добро+пожаловать!&height=80" alt="Заголовок"/>
 
 <br>
 
