@@ -24,7 +24,7 @@
 <br>
 
 <!-- Раздел технологий -->
-## (^._.^) Мой стек технологий
+## (^._.^) Мой стек технологий (нет)
 
 <!-- Первая строка технологий -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B5FEB" alt="JavaScript"/>
