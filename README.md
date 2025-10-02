@@ -1,149 +1,117 @@
 <div align="center">
 
-<!-- Анимированный заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+[Ваше+Имя]!;Full-Stack+Developer;Котики+приходят+и+уходят...;Добро+пожаловать!&height=80" alt="Заголовок"/>
+<!-- Анимированный заголовок с фиолетовым текстом -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+[Ваше+Имя]!;Full-Stack+Developer;Люблю+котиков+и+код;Добро+пожаловать!&height=80" alt="Заголовок"/>
 
 <br>
 
-<!-- Секция с "исчезающими" котиками -->
-## 🐱 Котики-невидимки
-
-<table>
-<tr>
-<td align="center">
-
-**Иногда видны**<br>
-<img src="https://cataas.com/cat?width=120&height=120&timestamp=1" width="120" height="120" style="border-radius: 20px; border: 3px solid #8B5FEB;"><br>
-<small>Обнови страницу 👀</small>
-
-</td>
-<td align="center">
-
-**Иногда нет**<br>
-<img src="https://cataas.com/cat?width=120&height=120&timestamp=2" width="120" height="120" style="border-radius: 20px; border: 3px solid #C77DFF;"><br>
-<small>Случайный кот 🎲</small>
-
-</td>
-<td align="center">
-
-**Магия!**<br>
-<img src="https://cataas.com/cat?width=120&height=120&timestamp=3" width="120" height="120" style="border-radius: 20px; border: 3px solid #764ba2;"><br>
-<small>Появляется/пропадает</small>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️ Мой стек технологий
-
-<!-- Технологии с котиками -->
-<div style="display: inline-block; position: relative;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B5FEB" alt="JavaScript"/>
-  <!-- Плавающий котик -->
-  <img src="https://cataas.com/cat?width=60&height=60&timestamp=4" width="60" height="60" style="position: absolute; top: -10px; right: -20px; border-radius: 50%; border: 2px solid #8B5FEB;">
+<!-- Котик 1 -->
+<div align="right">
+<img src="https://cataas.com/cat?type=square&width=150&height=150&fit=cover&position=center&timestamp=1" width="150" height="150" alt="Random cat" style="border-radius: 20px; border: 3px solid #8B5FEB;">
 </div>
 
+<!-- Статистика с фиолетовой темой -->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=00000000&title_color=8B5FEB&icon_color=8B5FEB&text_color=ffffff&ring_color=8B5FEB" height="165" alt="Статистика"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=8B5FEB&text_color=ffffff" height="165" alt="Языки"/>
+
+<br>
+
+<!-- Котик 2 -->
+<div align="left">
+<img src="https://cataas.com/cat/cute?width=120&height=120&fit=cover&timestamp=2" width="120" height="120" alt="Cute cat" style="border-radius: 15px; border: 2px solid #C77DFF;">
+</div>
+
+<br>
+
+<!-- Раздел технологий -->
+## 🐱 Мой стек технологий
+
+<!-- Первая строка технологий -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B5FEB" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=8B5FEB" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=8B5FEB" alt="React"/>
 
 <br>
+
+<!-- Котик 3 -->
+<div align="center">
+<img src="https://cataas.com/cat/gif?width=100&height=100&timestamp=3" width="100" height="100" alt="Animated cat" style="border-radius: 50%; border: 2px solid #764ba2;">
+</div>
+
 <br>
 
-<!-- Исчезающий котик в проектах -->
+<!-- Вторая строка технологий -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=764ba2" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=764ba2" alt="Python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=764ba2" alt="PostgreSQL"/>
+
+<br>
+<br>
+
 ## 💼 Мои проекты
 
-<div style="position: relative;">
-
-### 🚀 [Cat Randomizer](https://github.com/yourusername/cat-project)
-> Проект, где котики случайно появляются и исчезают
+<!-- Карточки проектов -->
+### 🚀 [Название проекта 1](https://github.com/yourusername/project1)
+> Проект для автоматизации ухода за котиками 🐾
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<!-- Котик, который "появляется" -->
-<div align="center">
-<img src="https://cataas.com/cat/gif?width=100&height=100&timestamp=5" width="100" height="100" style="border-radius: 15px; border: 2px dashed #8B5FEB;">
+<!-- Котик 4 между проектами -->
+<div align="right">
+<img src="https://cataas.com/cat/says/Meow?width=130&height=130&timestamp=4" width="130" height="130" alt="Cat saying meow" style="border-radius: 10px; border: 3px solid #8B5FEB;">
+</div>
+
+### 💫 [Название проекта 2](https://github.com/yourusername/project2)
+> Приложение для поиска домашних питомцев
 <br>
-<small><em>Этот котик мигает! ✨</em></small>
-</div>
-
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <br>
 
 ## 📈 Активность
 
-<!-- График с котиками -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=8B5FEB&line=8B5FEB&point=C77DFF&area=true&hide_border=true&hide_title=true)](https://github.com/yourusername)
-
-<br>
-
-## 🎮 Интерактивные котики
-
-<!-- Секция с разными состояниями котиков -->
-<table>
-<tr>
-<td align="center">
-
-**Котик есть** ✅<br>
-<img src="https://cataas.com/cat?width=80&height=80&timestamp=6" width="80" height="80"><br>
-<code>visible: true</code>
-
-</td>
-<td align="center">
-
-**Котика нет** ❌<br>
-<div style="width: 80px; height: 80px; background: #2D1B69; border-radius: 15px; display: flex; align-items: center; justify-content: center;">
-  <span style="color: #8B5FEB; font-size: 24px;">🐾</span>
+<!-- Котик 5 перед графиком -->
+<div align="left">
+<img src="https://cataas.com/cat?width=80&height=80&fit=cover&timestamp=5" width="80" height="80" alt="Small cat" style="border-radius: 10px;">
 </div>
+
+<!-- График активности -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=8B5FEB&line=8B5FEB&point=C77DFF&area=true&hide_border=true)](https://github.com/yourusername)
+
+<!-- Змея, поедающая контрибьюшены -->
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
 <br>
-<code>visible: false</code>
 
-</td>
-<td align="center">
+## 🐾 Факт о котиках
 
-**Загрузка...** ⏳<br>
-<img src="https://cataas.com/cat?width=80&height=80&timestamp=7" width="80" height="80" onerror="this.style.display='none'"><br>
-<code>status: loading</code>
-
-</td>
-</tr>
-</table>
+<!-- Случайный факт о котах -->
+<p align="center" style="background: linear-gradient(90deg, #8B5FEB, #C77DFF); padding: 10px; border-radius: 10px; color: white;">
+<em>💡 Кошки спят 70% своей жизни! Как настоящие программисты 😄</em>
+</p>
 
 <br>
 
 ## 📫 Свяжитесь со мной
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<!-- Котик 6 в разделе контактов -->
+<div align="center">
+<img src="https://cataas.com/cat/cute?width=90&height=90&timestamp=6" width="90" height="90" alt="Contact cat" style="border-radius: 50%;">
+</div>
 
-[![Email](https://img.shields.io/badge/Email-8B5FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-
-<!-- Мигающий котик -->
-<div style="animation: blink 2s infinite;">
-<img src="https://cataas.com/cat?width=50&height=50&timestamp=8" width="50" height="50" style="border-radius: 50%;">
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-
-</div>
 
 <br>
 
-<!-- Бегущие котики в футере -->
+<!-- Бегущий котик в футере -->
 <div align="center">
-<table>
-<tr>
-<td>🐾</td>
-<td>🐾</td>
-<td>🐾</td>
-<td>🐾</td>
-<td>🐾</td>
-</tr>
-</table>
-<p><small><em>Котики бегут... и исчезают в темноте</em></small></p>
+<img src="https://cataas.com/cat/gif?width=200&height=100&timestamp=7" width="200" height="100" alt="Running cat" style="border-radius: 10px;">
 </div>
 
 <!-- Анимированный футер -->
