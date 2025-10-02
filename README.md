@@ -115,6 +115,6 @@
 </div>
 
 <!-- Анимированный футер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&color=0:8B5FEB,50:C77DFF,100:764ba2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&reversal=true&color=0:7B68EE,50:9370DB,100:BA55D3"/>
 
 </div>
