@@ -76,7 +76,7 @@
 
 <!-- Котик 5 перед графиком -->
 <div align="left">
-<img src="https://cataas.com/cat?width=80&height=80&fit=cover&timestamp=5" width="80" height="80" alt="Small cat" style="border-radius: 10px;">
+<img src="https://cataas.com/cat?width=80&height=80&hat=hat" width="80" height="80" alt="Cat with hat" style="border-radius: 10px;">
 </div>
 
 <!-- График активности -->
