@@ -113,6 +113,6 @@
 </div>
 
 <!-- Анимированный футер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&gradient=8A2BE2-FF69B4&height=130&section=footer&reversal=true"/>
 
 </div>
