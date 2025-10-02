@@ -1,80 +1,120 @@
-<!-- Главный контейнер с градиентным фоном -->
-<div align="center" style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #8B5FEB 100%);">
+<div align="center">
 
-<!-- Внутренний контейнер для контента -->
-<div align="center" style="background: rgba(15, 8, 36, 0.9); border-radius: 15px; padding: 30px; margin: 10px;">
+<!-- Анимированный заголовок с фиолетовым текстом -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+[Ваше+Имя]!;Full-Stack+Developer;Люблю+котиков+и+код;Добро+пожаловать!&height=80" alt="Заголовок"/>
 
-<!-- Анимированный заголовок -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&color=8B5FEB&center=true&vCenter=true&width=500&lines=Привет,+я+[Ваше+Имя]!;Full-Stack+Developer;Люблю+чистый+код;Добро+пожаловать!&height=80" alt="Заголовок"/>
+<br>
 
-<br/>
-<br/>
-
-<!-- Статистика с полупрозрачным фоном -->
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=8B5FEB&icon_color=C77DFF&text_color=ffffff&ring_color=8B5FEB" height="165" alt="Статистика"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5FEB&text_color=ffffff&icon_color=C77DFF" height="165" alt="Языки"/>
+<!-- Котик 1 -->
+<div align="right">
+<img src="https://cataas.com/cat?type=square&width=150&height=150&fit=cover&position=center&timestamp=1" width="150" height="150" alt="Random cat" style="border-radius: 20px; border: 3px solid #8B5FEB;">
 </div>
 
-<br/>
+<!-- Статистика с фиолетовой темой -->
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=00000000&title_color=8B5FEB&icon_color=8B5FEB&text_color=ffffff&ring_color=8B5FEB" height="165" alt="Статистика"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=radical&bg_color=00000000&title_color=8B5FEB&text_color=ffffff" height="165" alt="Языки"/>
 
-<!-- Полоса навыков с градиентом -->
-### 🌟 Мой стек технологий
+<br>
 
-<div style="background: linear-gradient(90deg, #2D1B69, #8B5FEB); padding: 15px; border-radius: 10px; margin: 15px 0;">
-
-<!-- Иконки технологий -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2D1B69" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2D1B69" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2D1B69" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D1B69" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2D1B69" alt="Python"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D1B69" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2D1B69" alt="Docker"/>
-
+<!-- Котик 2 -->
+<div align="left">
+<img src="https://cataas.com/cat/cute?width=120&height=120&fit=cover&timestamp=2" width="120" height="120" alt="Cute cat" style="border-radius: 15px; border: 2px solid #C77DFF;">
 </div>
 
-<!-- Текущие проекты -->
-### 💼 Над чем я работаю
+<br>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin: 20px 0;">
+<!-- Раздел технологий -->
+## 🐱 Мой стек технологий
 
-<!-- Проект 1 -->
-<div style="background: linear-gradient(135deg, #2D1B69, #4A2C8C); padding: 15px; border-radius: 10px; border-left: 4px solid #8B5FEB;">
-  <h4 style="color: #C77DFF; margin: 0;">🚀 Название проекта 1</h4>
-  <p style="color: #ffffff; font-size: 14px;">Описание вашего крутого проекта на несколько строк</p>
+<!-- Первая строка технологий -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B5FEB" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=8B5FEB" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=8B5FEB" alt="React"/>
+
+<br>
+
+<!-- Котик 3 -->
+<div align="center">
+<img src="https://cataas.com/cat/gif?width=100&height=100&timestamp=3" width="100" height="100" alt="Animated cat" style="border-radius: 50%; border: 2px solid #764ba2;">
 </div>
 
-<!-- Проект 2 -->
-<div style="background: linear-gradient(135deg, #2D1B69, #4A2C8C); padding: 15px; border-radius: 10px; border-left: 4px solid #C77DFF;">
-  <h4 style="color: #8B5FEB; margin: 0;">💫 Название проекта 2</h4>
-  <p style="color: #ffffff; font-size: 14px;">Еще одно описание интересного проекта</p>
+<br>
+
+<!-- Вторая строка технологий -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=764ba2" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=764ba2" alt="Python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=764ba2" alt="PostgreSQL"/>
+
+<br>
+<br>
+
+## 💼 Мои проекты
+
+<!-- Карточки проектов -->
+### 🚀 [Название проекта 1](https://github.com/yourusername/project1)
+> Проект для автоматизации ухода за котиками 🐾
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<!-- Котик 4 между проектами -->
+<div align="right">
+<img src="https://cataas.com/cat/says/Meow?width=130&height=130&timestamp=4" width="130" height="130" alt="Cat saying meow" style="border-radius: 10px; border: 3px solid #8B5FEB;">
 </div>
 
+### 💫 [Название проекта 2](https://github.com/yourusername/project2)
+> Приложение для поиска домашних питомцев
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<br>
+
+## 📈 Активность
+
+<!-- Котик 5 перед графиком -->
+<div align="left">
+<img src="https://cataas.com/cat?width=80&height=80&fit=cover&timestamp=5" width="80" height="80" alt="Small cat" style="border-radius: 10px;">
 </div>
 
 <!-- График активности -->
-### 📈 Моя активность
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=8B5FEB&line=8B5FEB&point=C77DFF&area=true&hide_border=true)](https://github.com/yourusername)
 
-<div style="background: rgba(45, 27, 105, 0.6); padding: 20px; border-radius: 15px; margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&color=8B5FEB&line=8B5FEB&point=C77DFF&area=true&hide_border=true" alt="График активности" style="width: 100%;"/>
+<!-- Змея, поедающая контрибьюшены -->
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+## 🐾 Факт о котиках
+
+<!-- Случайный факт о котах -->
+<p align="center" style="background: linear-gradient(90deg, #8B5FEB, #C77DFF); padding: 10px; border-radius: 10px; color: white;">
+<em>💡 Кошки спят 70% своей жизни! Как настоящие программисты 😄</em>
+</p>
+
+<br>
+
+## 📫 Свяжитесь со мной
+
+<!-- Котик 6 в разделе контактов -->
+<div align="center">
+<img src="https://cataas.com/cat/cute?width=90&height=90&timestamp=6" width="90" height="90" alt="Contact cat" style="border-radius: 50%;">
 </div>
 
-<!-- Контакты -->
-### 📫 Свяжитесь со мной
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 
-<div style="background: linear-gradient(135deg, #8B5FEB, #C77DFF); padding: 20px; border-radius: 15px; margin: 20px 0;">
+<br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D1B69)](mailto:youremail@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2D1B69)](https://t.me/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B69)](https://www.linkedin.com/in/yourusername/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69)](https://github.com/yourusername)
-
+<!-- Бегущий котик в футере -->
+<div align="center">
+<img src="https://cataas.com/cat/gif?width=200&height=100&timestamp=7" width="200" height="100" alt="Running cat" style="border-radius: 10px;">
 </div>
-
-</div> <!-- Закрытие внутреннего контейнера -->
 
 <!-- Анимированный футер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&color=0:2D1B69,50:8B5FEB,100:C77DFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true&color=0:8B5FEB,50:C77DFF,100:764ba2"/>
 
-</div> <!-- Закрытие главного контейнера -->
+</div>
