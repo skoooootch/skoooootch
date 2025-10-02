@@ -82,8 +82,6 @@
 <!-- График активности -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skoooootch&theme=react-dark&bg_color=00000000&color=8B5FEB&line=8B5FEB&point=C77DFF&area=true&hide_border=true)](https://github.com/skoooootch)
 
-<!-- Змея, поедающая контрибьюшены -->
-![Snake animation](https://github.com/skoooootch/skoooootch/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
@@ -115,6 +113,6 @@
 </div>
 
 <!-- Анимированный футер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&reversal=true&color=0:7B68EE,50:9370DB,100:BA55D3"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&reversal=true"/>
 
 </div>
