@@ -27,10 +27,6 @@
 ## (^._.^) Мой стек технологий (нет)
 
 <!-- Первая строка технологий -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=8B5FEB" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=8B5FEB" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=8B5FEB" alt="React"/>
-
 <br>
 
 <!-- Котик 3 -->
@@ -41,9 +37,6 @@
 <br>
 
 <!-- Вторая строка технологий -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=764ba2" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=764ba2" alt="Python"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=764ba2" alt="PostgreSQL"/>
 
 <br>
 <br>
@@ -54,9 +47,6 @@
 ### (^._.^) Какой-то грандиозный проект(https://github.com/skoooootch/project1)
 > мяумяумяу
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
 <!-- Котик 4 между проектами -->
 <div align="right">
@@ -66,9 +56,6 @@
 ### (^._.^) Ещё один проект(https://github.com/skoooootch/project2)
 > пупупу
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <br>
 
